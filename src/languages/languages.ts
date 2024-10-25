@@ -1,0 +1,35 @@
+export const languages = {
+    en: {
+        title: 'EasyTier',
+        instructions: 'Instructions',
+        newTierlist: 'New Tierlist',
+        language: 'English',
+        addImages: 'Add Images',
+        addTier: 'Add Tier',
+        done: 'Done!',
+        export: 'Export',
+        back: 'Back',
+        tierPlaceholder: 'Enter tier name...',
+        complete: 'All images have been placed!',
+        pressSpace: 'Press SPACE for next image',
+        useNumbers: 'Use numbers 1-9 to select tier',
+        pressEnter: 'Press ENTER to confirm selection',
+    },
+    es: {
+        title: 'EasyTier',
+        instructions: 'Instrucciones',
+        newTierlist: 'Nueva Tier List',
+        language: 'Español',
+        addImages: 'Agregar Imágenes',
+        addTier: 'Agregar Tier',
+        done: '¡Listo!',
+        export: 'Exportar',
+        back: 'Volver',
+        tierPlaceholder: 'Ingresa nombre del tier...',
+        complete: '¡Todas las imágenes han sido colocadas!',
+        pressSpace: 'Presiona ESPACIO para siguiente imagen',
+        useNumbers: 'Usa números 1-9 para seleccionar tier',
+        pressEnter: 'Presiona ENTER para confirmar selección',
+    }
+};
+
